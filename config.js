@@ -46,9 +46,9 @@ const CONFIG = {
     },
     {
       id: '2',
-      name: 'Mail',
-      icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      name: 'Reddit',
+      icon: 'bookmark',
+      link: 'https://reddit.com',
     },
     {
       id: '3',
@@ -64,9 +64,9 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'bookmark',
-      link: 'https://reddit.com',
+      name: 'Mail',
+      icon: 'mail',
+      link: 'https://mail.protonmail.com/',
     },
     {
       id: '6',
