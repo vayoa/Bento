@@ -63,13 +63,13 @@ const CONFIG = {
       link: 'https://www.notion.so/',
     },
     {
-      id: '5',
+      id: '6',
       name: 'Mail',
       icon: 'mail',
       link: 'https://mail.google.com/mail/u/1/#inbox',
     },
     {
-      id: '6',
+      id: '5',
       name: 'Calendar',
       icon: 'calendar',
       link: 'https://calendar.google.com/calendar/r',
