@@ -52,24 +52,24 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Reddit',
-      icon: 'grid',
-      link: 'https://reddit.com',
-    },
-    {
-      id: '4',
       name: 'Notion',
       icon: 'book',
       link: 'https://www.notion.so/',
     },
     {
-      id: '6',
+      id: '4',
       name: 'Mail',
       icon: 'mail',
       link: 'https://mail.google.com/mail/u/1/#inbox',
     },
     {
       id: '5',
+      name: 'Reddit',
+      icon: 'grid',
+      link: 'https://reddit.com',
+    },
+    {
+      id: '6',
       name: 'Calendar',
       icon: 'calendar',
       link: 'https://calendar.google.com/calendar/r',
