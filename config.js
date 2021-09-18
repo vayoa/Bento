@@ -46,21 +46,21 @@ const CONFIG = {
     },
     {
       id: '2',
+      name: 'Github',
+      icon: 'github',
+      link: 'https://github.com/',
+    },
+    {
+      id: '3',
       name: 'Reddit',
       icon: 'grid',
       link: 'https://reddit.com',
     },
     {
-      id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
-    },
-    {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Notion',
+      icon: 'book',
+      link: 'https://www.notion.so/',
     },
     {
       id: '5',
@@ -70,9 +70,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'Calendar',
+      icon: 'calendar',
+      link: 'https://calendar.google.com/calendar/r',
     },
   ],
 
