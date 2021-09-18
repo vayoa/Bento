@@ -60,19 +60,19 @@ const CONFIG = {
       id: '4',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.google.com/mail/u/1/#inbox',
+      link: 'https://mail.google.com/mail/u/1/#inbox/',
     },
     {
       id: '5',
       name: 'Reddit',
       icon: 'grid',
-      link: 'https://reddit.com',
+      link: 'https://reddit.com/',
     },
     {
       id: '6',
       name: 'Calendar',
       icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      link: 'https://calendar.google.com/calendar/r/',
     },
   ],
 
@@ -81,27 +81,27 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
+  firstListIcon: 'play',
   secondListIcon: 'coffee',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Apple Music',
+        link: 'https://music.apple.com/',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Netflix',
+        link: 'https://www.netflix.com/',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Twitch',
+        link: 'https://www.twitch.tv/',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: '（●●）',
+        link: 'https://9anime.to/',
       },
     ],
     secondList: [
